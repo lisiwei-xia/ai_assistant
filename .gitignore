@@ -1,0 +1,6 @@
+.env
+kb/
+venv/
+__pycache__/
+*.pyc
+.streamlit/
